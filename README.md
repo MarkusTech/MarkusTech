@@ -2,8 +2,6 @@
 <h3 align="center">A hard-working programmer that has an aptitude for creating solutions in the least amount of time. And also looking forward to use my programming skills for the growth of the organization and myself.</h3>
 
 - 📫 How to reach me **wm.recopelacion@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
