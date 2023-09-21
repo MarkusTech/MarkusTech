@@ -23,4 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markustech&show_icons=true&locale=en" alt="markustech" /></p>
 
-<p>&nbsp;&nbsp;&nbsp;<img align="right-center" src="https://github-readme-streak-stats.herokuapp.com/?user=markustech&" alt="markustech" /></p>
+<p><img align"left"/></p>
+
+<p>&nbsp;<img align="right-center" src="https://github-readme-streak-stats.herokuapp.com/?user=markustech&" alt="markustech" /></p>
