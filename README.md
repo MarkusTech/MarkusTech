@@ -1,8 +1,17 @@
 <h1 align="center">Hi 👋, I'm Wenn Mark Recopelacion</h1>
 <h3 align="center">A hard-working programmer that has an aptitude for creating solutions in the least amount of time. And also looking forward to use my programming skills for the growth of the organization and myself.</h3>
 
+- 🔭 I’m currently working on **FullStack Ecommerce Project**
+
+- 🌱 I’m currently learning **Angular, Asp.net**
+
+- 👨‍💻 All of my projects are available at [https://markustech.github.io/PersonalPortfolioV2/](https://markustech.github.io/PersonalPortfolioV2/)
+
+- 💬 Ask me about **Mongodb, Mysql, React, Expressjs, Nodejs**
+
 - 📫 How to reach me **wm.recopelacion@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
