@@ -25,4 +25,4 @@
 
 <p><img align"left"/></p>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="right-center" src="https://github-readme-streak-stats.herokuapp.com/?user=markustech&" alt="markustech" /></p>
+<p>"                                                         "<img align="right-center" src="https://github-readme-streak-stats.herokuapp.com/?user=markustech&" alt="markustech" /></p>
