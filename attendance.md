@@ -1,5 +1,5 @@
 monday        ✓✓
-tuesday       ✓
+tuesday       ✓✓
 thursday      ✓
 wednesday     ✓
 friday        ✓
