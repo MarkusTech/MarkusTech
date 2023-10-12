@@ -1,6 +1,6 @@
 monday        ✓✓
 tuesday       ✓✓
-thursday      ✓
+thursday      ✓✔️
 wednesday     ✓✔️
 friday        ✓
 saturday      ✓
