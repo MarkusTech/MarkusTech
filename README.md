@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **FullStack Ecommerce Project**
 
-- 🌱 I’m currently learning **Angular, Asp.net**
+- 🌱 I’m currently learning **Vue, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://markustech.github.io/PersonalPortfolioV2/](https://markustech.github.io/PersonalPortfolioV2/)
 
