@@ -81,14 +81,14 @@
 </div>
 
 <!-- Streal stats (Light mode) -->
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/MarkusTech">
     <img
        src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Markustech&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
        alt="My GitHub streak stats"
      />
   </a>
-</div>
+</div> -->
 
 
 <!-- Streal stats (Dark mode) -->
