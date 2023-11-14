@@ -1,7 +1,7 @@
 sunday        ✓✓✓✓✓✓
 monday        ✓✓✓✓✓✓✓
 tuesday       ✓✓✓✓✓✓✓
-wednesday     ✓✓✓✓✓✓
+wednesday     ✓✓✓✓✓✓✓
 thursday      ✓✓✓✓✓✓
 friday        ✓✓✓✓✓✓
 saturday      ✓✓✓✓✓✓
