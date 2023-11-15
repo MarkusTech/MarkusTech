@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **wm.recopelacion@gmail.com**
 
-- 📄 Know about my experiences [https://www.mediafire.com/file/r95ynkp404k065h/Wenn-Mark-Recopelacion.pdf/file](https://www.mediafire.com/file/r95ynkp404k065h/Wenn-Mark-Recopelacion.pdf/file)
+- 📄 Know about my experiences https://www.mediafire.com/file/rw0q08rcbiivvz0/Wenn_Mark_Recopelacion.pdf/file
 
 <p align="left">
 </p>
