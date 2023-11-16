@@ -3,5 +3,5 @@ monday        ✓✓✓✓✓✓✓
 tuesday       ✓✓✓✓✓✓✓
 wednesday     ✓✓✓✓✓✓✓
 thursday      ✓✓✓✓✓✓✓
-friday        ✓✓✓✓✓✓
+friday        ✓✓✓✓✓✓✓
 saturday      ✓✓✓✓✓✓
