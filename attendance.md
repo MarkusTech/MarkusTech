@@ -4,4 +4,4 @@ tuesday       ✓✓✓✓✓✓✓
 wednesday     ✓✓✓✓✓✓✓
 thursday      ✓✓✓✓✓✓✓
 friday        ✓✓✓✓✓✓✓
-saturday      ✓✓✓✓✓✓
+saturday      ✓✓✓✓✓✓✓
