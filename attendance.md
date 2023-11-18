@@ -1,4 +1,4 @@
-sunday        ✓✓✓✓✓✓
+sunday        ✓✓✓✓✓✓✓
 monday        ✓✓✓✓✓✓✓
 tuesday       ✓✓✓✓✓✓✓
 wednesday     ✓✓✓✓✓✓✓
