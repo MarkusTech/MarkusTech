@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Mongodb, Mysql, React, Expressjs, Nodejs**
 
-- - 👨‍💻 Portfolio: https://wmrecopelacion.tech/
+- 👨‍💻 Portfolio: https://wmrecopelacion.tech/
 
 - 📫 My Email: **wm.recopelacion@gmail.com**
 
