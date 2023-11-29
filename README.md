@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Vue, Laravel**
 
-- 👨‍💻 All of my projects are available at https://wmrecopelacion.tech/
+- 👨‍💻 Portfolio: https://wmrecopelacion.tech/
 
 - 💬 Ask me about **Mongodb, Mysql, React, Expressjs, Nodejs**
 
-- 📫 How to reach me **wm.recopelacion@gmail.com**
+- 📫 My Email: **wm.recopelacion@gmail.com**
 
-- 📄 Know about my experiences https://www.mediafire.com/file/rw0q08rcbiivvz0/Wenn_Mark_Recopelacion.pdf/file
+- 📄 My Resume: https://drive.google.com/file/d/1jw9eE5yIvo_v7dcqkin1Nkz6vFkzrD4w/view?usp=sharing
 
 <p align="left">
 </p>
