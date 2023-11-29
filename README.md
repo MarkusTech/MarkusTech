@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue, Laravel**
 
-- 💬 Ask me about **Mongodb, Mysql, React, Expressjs, Nodejs**
+- 💬 Ask me about **Mongodb, Mysql, React, Expressjs, Nodejs, Typescript and Prisma**
 
 - 👨‍💻 Portfolio: https://wmrecopelacion.tech/
 
