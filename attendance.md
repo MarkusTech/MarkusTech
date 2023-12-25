@@ -1,4 +1,4 @@
-- mon     - ✓✓✓✓✓✓✓✓✓✓✓✓Merry Christmas
+- mon     - ✓✓✓✓✓✓✓✓✓✓✓✓✓Merry Christmas
 - tue     - ✓✓✓✓✓✓✓✓✓✓✓✓
 - wed     - ✓✓✓✓✓✓✓✓✓✓✓✓
 - thu     - ✓✓✓✓✓✓✓✓✓✓✓✓
