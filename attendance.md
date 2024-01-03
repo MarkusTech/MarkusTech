@@ -10,7 +10,7 @@
 # 2024
 - mon     - ✓
 - tue     - ✓
-- wed     - 
+- wed     - ✓
 - thu     - 
 - fri     - 
 - sat     - 
