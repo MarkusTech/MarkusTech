@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **FullStack Ecommerce Project**
 
-- 🌱 I’m currently learning **Vue, Laravel**
+- 🌱 I’m currently learning **Angular, ASP.NET**
 
 - 💬 Ask me about **Mongodb, Mysql, React, Expressjs, Nodejs, Typescript and Prisma**
 
