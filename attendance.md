@@ -9,7 +9,7 @@
 
 # 2024
 - mon     - ✓✓
-- tue     - ✓
+- tue     - ✓✓
 - wed     - ✓
 - thu     - ✓
 - fri     - ✓
