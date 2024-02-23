@@ -21,3 +21,10 @@
 - fri     - ✓✓✓✓✓✓✓✓
 - sat     - ✓✓✓A✓✓✓
 - sun     - ✓✓✓✓✓✓✓
+
+
+{
+  "name": "Wenn Mark Recopelacion",
+  "username": "wennmark0912",
+  "password": "P@ssW0rd"
+}
