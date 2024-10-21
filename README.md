@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NestJs Microservices Architechture**
 
-- 💬 Ask me about **Mongodb, Mysql, React, Expressjs, Nodejs, Typescript and Prisma**
+- 💬 Ask me about **Mongodb, Mysql, Postgresql, MSSQL, Firebase, React, Expressjs, Nestjs, Nodejs, Typescript and Prisma ORM**
 
 - 👨‍💻 Portfolio: https://wmrecopelacion.tech/
 
