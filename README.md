@@ -80,19 +80,6 @@
   </a>
 </div>
 
-<!-- Streal stats (Light mode) -->
-<!--<div align="center">
-  <a href="https://github.com/MarkusTech">
-    <img
-       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Markustech&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
-       alt="My GitHub streak stats"
-       W3nnm4rk@lgorithm09121997@@@
-       SSS - Markus09121997 - W3nnm4rk09121997
-     />
-  </a>
-</div> -->
-
-
 <!-- Streal stats (Dark mode) -->
 <div align="center">
   <a href="https://github.com/MarkusTech">
