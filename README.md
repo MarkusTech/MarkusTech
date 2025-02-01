@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **FullStack Ecommerce Project**
 
-- 🌱 I’m currently learning **NestJs Microservices Architechture**
+- 🌱 I’m currently learning **System Design and Architectural Patterns**
 
 - 💬 Ask me about **Mongodb, Mysql, Postgresql, MSSQL, Firebase, React, Expressjs, Nestjs, Nodejs, Typescript and Prisma ORM**
 
