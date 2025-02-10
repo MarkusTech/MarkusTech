@@ -38,3 +38,6 @@
 // site to test sql injection
 https://demo.testfire.net/login.jsp
 -- admin' --
+
+# CCTV Installer
+https://drive.google.com/file/d/1e88B-HW7-dzk26vzle3-I_p1y2dXXzXo/view?usp=sharing
