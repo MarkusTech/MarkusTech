@@ -11,7 +11,7 @@
 
 - 📫 My Email: **wm.recopelacion@gmail.com**
 
-- 📄 My Resume: https://drive.google.com/file/d/1h9h6h3OvJjSgU25osrMdSsUfj5S4RTn0/view?usp=sharing
+- 📄 My Resume: https://drive.google.com/file/d/1mfzw-xnt9VKVYaUAw0udKrmrkB1uSatd/view
 
 <p align="left">
 </p>
